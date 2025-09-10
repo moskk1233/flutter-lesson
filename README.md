@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# หน้าต่างๆภายในแอพ
+![Login Page](example/login.png)
+![Register Page](example/register.png)
+![Show Trips Page](example/show-trips.png)
+![Trip Detail Page](example/trip-detail.png)
+![Profile Page](example/profile.png)
