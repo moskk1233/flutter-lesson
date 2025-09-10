@@ -16,8 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # หน้าต่างๆภายในแอพ
-![Login Page](example/login.png)
-![Register Page](example/register.png)
-![Show Trips Page](example/show-trips.png)
-![Trip Detail Page](example/trip-detail.png)
-![Profile Page](example/profile.png)
+<img src="example/login.png" alt="Login Page" width="200px" />
+<img src="example/register.png" alt="Register Page" width="200px" />
+<img src="example/show-trips.png" alt="Show Trips Page" width="200px" />
+<img src="example/trip-detail.png" alt="Trip Detail Page" width="200px" />
+<img src="example/profile.png" alt="Profile Page" width="200px" />
